@@ -10,10 +10,28 @@ Algorithms 공부와 참고할 수 있는 목록입니다. <br/>
 
 ## 목차
 
-1. SQL Basic
-   - SELECT / FROM / LIMIT
-   - ORDER BY / ROUND / 
-2. SQL Intermediate
+1. Algorism-DataStructure
+
+2. Back-Joon
+
+3. Modu-Algorism
+
+4. Modu-Algorism-Python
+
+
+## 백준(Back-Joon)
+
+[바로가기](https://www.acmicpc.net/)
+
+- 쉬운 유형의 코딩테스트에서부터 어려운 난이도까지 포괄적으로 구성되어있다.
+- 각 레벨에 맞춰서 등급을 올릴 수 있음
+
+## 프로그래머스(Programmers)
+
+[바로가기](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=brand_prgms_pc&gclid=CjwKCAiAprGRBhBgEiwANJEY7N3Y4UbbZwNw8fPATGUB3KuWKq6j-Gj2PIBHoQXtEMWfERQ1eZgc9RoCBloQAvD_BwE)
+
+- 어려운 난이도 유형과 직접적인 코딩테스트의 대비를 할 수 있는 사이트 
+
 
 ## w3school
 
@@ -31,18 +49,6 @@ Algorithms 공부와 참고할 수 있는 목록입니다. <br/>
 
 - 회원 가입 필요 - `For Devleopers` 로 Login
 
-## Mode
-
-[바로가기](https://mode.com/sql-tutorial/)
-
-- SQL에 대한 강의가 구성되어 기초 부터 고급으로 구성되어 있다
-
-## 프로그래머스(Programmers)
-
-[바로가기](https://programmers.co.kr/learn/challenges)
-
-- SQL 고득적 Kit을 통해서 코딩테스트를 대비할 수 있는 사이트
--  `SELECT` `SUM`, `MAX`, `MIN`,`GROUPY BY` , `IS NULL`,  `JOIN`,`String`, `Date` 로 구성되어있다.
 
 ## 리트코드(leetcode)
 
