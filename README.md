@@ -10,13 +10,13 @@ Algorithms 공부와 참고할 수 있는 목록입니다. <br/>
 
 ## 목차
 
-1. Algorism-DataStructure
+1. [Algorism-DataStructure](https://github.com/ohtaekwon/TIL-Algorithms/tree/master/Algorism-DataStructure)
 
-2. Back-Joon
+2. [Back-Joon](https://github.com/ohtaekwon/TIL-Algorithms/tree/master/Back-Joon)
 
-3. Modu-Algorism
+3. [Modu-Algorism](https://github.com/ohtaekwon/TIL-Algorithms/tree/master/Modu-Algorism-Python)
 
-4. Modu-Algorism-Python
+4. [Modu-Algorism-Python](https://github.com/ohtaekwon/TIL-Algorithms/tree/master/Modu-Algorism)
 
 
 ## 백준(Back-Joon)
